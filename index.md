@@ -16,9 +16,9 @@ Started EDA and understood about categories of data and data cleaning. Exploring
 
 ### Jupyter Notebook
 
-![Jupyter Notebook](https://github.com/SasukeSa/minimal/blob/master/assets/img/Jupy.png)
+![Jupyter Notebook](assets/img/Jupy.png)
 
 ### Cyclist notebook
 
-![CyclistParisPhoto](https://github.com/SasukeSa/minimal/blob/master/assets/img/IMG_20211016_080419_Bokeh.jpg)
+![CyclistParisPhoto](assets/img/IMG_20211016_080419_Bokeh.jpg)
 
