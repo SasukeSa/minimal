@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Abhishek exploring EDA: exploratory data analysis.
 
