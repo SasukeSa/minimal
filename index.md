@@ -19,9 +19,9 @@ Started EDA and understood about categories of data and data cleaning. Exploring
 
 ### Jupyter Notebook
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Jupyter Notebook](https://github.com/SasukeSa/minimal/blob/master/assets/img/Jupy.png)
 
 ### Cyclist notebook
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![CyclistParisPhoto](https://github.com/SasukeSa/minimal/blob/master/assets/img/IMG_20211016_080419_Bokeh.jpg)
 
